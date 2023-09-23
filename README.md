@@ -32,6 +32,6 @@
 ### 🤝🏻 &nbsp;Socials 
 
 <p align="center">
-<a href="https://www.t.me/https://t.me/Liwyd"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-liwyd-blue"></a>
+<a href="https://t.me/Liwyd"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-liwyd-blue"></a>
 <a href="https://www.instagram.com/liwyd_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Liwyd__-purple"></a>
 </p>
