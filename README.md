@@ -29,9 +29,9 @@
 
 ---
 
-### 🤝🏻 &nbsp;Socials 
+### 🤝🏻 &nbsp;contact "info": 
 
-<p align="center">
+<p align="left">
 <a href="https://t.me/Liwyd"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-liwyd-blue?&logo=Telegram"></a>
 <a href="https://www.instagram.com/liwyd_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Liwyd__-purple?&logo=Instagram"></a>
 <a href="https://twitter.com/liwyd_"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-liwyd__-black?&logo=twitter"></a>
