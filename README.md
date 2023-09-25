@@ -29,7 +29,7 @@
 
 ---
 
-### 🤝🏻 &nbsp;contact "info": 
+- &nbsp;contact "info": 
 
 <p align="left">
 <a href="https://t.me/Liwyd"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-liwyd-blue?&logo=Telegram"></a>
