@@ -22,6 +22,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
+  ![RegEx](https://img.shields.io/badge/-RegEx-333333?style=flat&logo=RegEx)
   ![LabView](https://img.shields.io/badge/-LabView-333333?style=flat&logo=labview)
   ![Arduino](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=ARDUINO)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
