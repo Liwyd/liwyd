@@ -1,4 +1,4 @@
-## Hey there, liwyd!
+## Hey there, this is liwyd !
 
 ### 👨🏻‍💻 &nbsp;About Me
 
