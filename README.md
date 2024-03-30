@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-- 🔭 &nbsp; I’m working as Backend Developer
+- 🔭 &nbsp; working as Backend Developer
 - 📚 &nbsp; Computer science student
 - ‍🌱 &nbsp; nature lover
 
