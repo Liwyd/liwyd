@@ -4,7 +4,7 @@
 
 
 - 🔭 &nbsp; working as Backend Developer
-- 📚 &nbsp; Computer science student
+- 📚 &nbsp; Computer Engineering student
 - ‍🌱 &nbsp; nature lover
 
 &nbsp;
