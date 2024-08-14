@@ -16,7 +16,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=Cplusplus)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle)
   ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
