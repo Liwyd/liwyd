@@ -1,17 +1,13 @@
 ## Hey there, this is liwyd !
 
-### 👨🏻‍💻 &nbsp;About Me
-
+### &nbsp; Me
 
 - 🔭 &nbsp; working as Backend Developer
 - 📚 &nbsp; Computer Engineering student
 - ‍🌱 &nbsp; nature lover
 
-&nbsp;
 
----
-
-### 🛠 &nbsp;Languages and Tools
+### 🛠 &nbsp;Tools
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
@@ -27,7 +23,6 @@
   ![Arduino](https://img.shields.io/badge/-ARDUINO-333333?style=flat&logo=ARDUINO)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## 
 
 - &nbsp;contact info: 
 
