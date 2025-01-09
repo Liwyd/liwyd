@@ -14,6 +14,7 @@
 ### 🛠 &nbsp;Languages and Tools
 
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=Cplusplus)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=oracle)
