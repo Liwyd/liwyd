@@ -32,5 +32,5 @@
 - &nbsp;contact info: 
 
 <p align="left">
-<a href="https://t.me/Stone_lover"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-stone_lover-blue?&logo=Telegram"></a>
+<a href="https://t.me/liwyd"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-liwyd-blue?&logo=Telegram"></a>
 </p>
