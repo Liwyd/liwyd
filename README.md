@@ -2,7 +2,7 @@
 
 ### &nbsp; Me :
 
--  &nbsp; Backend Developer
+-  &nbsp; Backend 
 -  &nbsp; Computer Engineering student
 
 
