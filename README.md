@@ -10,7 +10,6 @@
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=JavaScript) 
   ![node.js](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
-  ![next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   
