@@ -1,7 +1,13 @@
 # Hi there, I'm Ali Karimi! 👋
 
-**Backend-focused Full-Stack Developer** | Computer Science Student | Obsessed with clean code, performance & learning new things every day.
+**Backend-focused Full-Stack Developer**
++ Computer Science Student
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/alkarimikahran">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>  
+</p>
 Currently building scalable backend systems with **NestJS**, **Rust (Axum)**, and modern JavaScript/TypeScript stacks. Always exploring the edge of systems programming and distributed architectures.
 
 
