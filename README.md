@@ -1,14 +1,12 @@
 # Hi there, I'm Ali Karimi! 👋
 
-**Backend-focused Full-Stack Developer**
-+ Computer Science Student
-
+### **Software Developer**
+Currently building scalable backend systems with **NestJS**, **Rust (Axum)**, and modern JavaScript/TypeScript stacks. Always exploring the edge of systems programming and distributed architectures.
 <p align="left">
   <a href="https://www.linkedin.com/in/alkarimikahran">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>  
 </p>
-Currently building scalable backend systems with **NestJS**, **Rust (Axum)**, and modern JavaScript/TypeScript stacks. Always exploring the edge of systems programming and distributed architectures.
 
 
 ## 🛠️ Tech Stack & Skills
@@ -50,7 +48,6 @@ Currently building scalable backend systems with **NestJS**, **Rust (Axum)**, an
 ![GitLab CI](https://img.shields.io/badge/-GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
@@ -68,10 +65,6 @@ Currently building scalable backend systems with **NestJS**, **Rust (Axum)**, an
 - **[pincracker](https://github.com/liwyd/pincracker)** – Attiny85-based hardware PIN brute-force demo (security research)
 
 → See all projects: [github.com/liwyd](https://github.com/liwyd?tab=repositories)
-
-<!-- ![Ali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=liwyd&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10) -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=liwyd&layout=compact&theme=tokyonight&hide_border=true&border_radius=10)
-
 
 
 ## 📫 Let's Connect!
