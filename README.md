@@ -28,6 +28,7 @@ Currently building scalable backend systems with **NestJS**, **Rust (Axum)**, an
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ### Frontend
+![Next.js](https://img.shields.io/badge/-Next-A8B9CC?style=flat&logo=next.js&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
