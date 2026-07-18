@@ -3,7 +3,7 @@
 ### **Software Developer**
 Currently building scalable backend systems with **NestJS**, **Rust (Axum)**, and modern JavaScript/TypeScript stacks. Always exploring the edge of systems programming and distributed architectures.
 <p align="left">
-  <a href="https://www.linkedin.com/in/alkarimikahran">
+  <a href="https://www.linkedin.com/in/alikarimikahran">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
   </a>  
 </p>
