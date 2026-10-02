@@ -3,37 +3,24 @@
 Backend Engineer building scalable software, distributed systems.
 
 
+## What I work on
+
+- **Network & protocol engineering** — custom tunnels, transport multiplexing, censorship-resistant transports.
+- **VPN & access infrastructure** — Xray/V2Ray panels, multi-server node orchestration, traffic accounting, reseller workflows.
+- **Billing & payments** — wallets, usage metering, payment gateways, invoicing and commission logic.
+- **Distributed systems** — master/node topologies, background job queues, schedulers, real-time event streams.
+- **ML & audio** — feature extraction, emotion-aware music recommendation, LLM-driven media pipelines.
+- **Tooling & automation** — desktop apps, CLIs, Telegram bots, scrapers and internal ops tooling.
+
+
 ## Projects
 
-### VPN Billing & Management Platform *(Private)*
 
-High-performance SaaS platform for managing VLESS/Xray subscriptions, traffic accounting, billing, and distributed VPN infrastructure.
+### [IBSng](https://github.com/Liwyd/IBSng)
 
-> Go • NestJS • Xray • Docker
+RADIUS server with a web admin panel, plan/quota accounting and NAS integrations, ported to Python 3 and PHP 8.3, with idempotent installers for Ubuntu, systemd, Docker and PostgreSQL.
 
----
-
-### Music Emotion Recommender *(Private)*
-
-Machine learning system for music recommendation based on emotion recognition using modern audio feature extraction and deep learning techniques.
-
-> Python • Deep Learning • Wav2Vec2 • Recommendation Systems
-
----
-
-### MarzTool *(Private)*
-
-Developer toolkit for automating Marzban/Xray deployment, management, migration, and infrastructure operations.
-
-> Go • Docker • Xray • Infrastructure
-
----
-
-### [Sarban](https://github.com/Liwyd/sarban)
-
-Advanced management and customization platform for Marzban/Xray servers.
-
-> Self-hosted • Infrastructure
+> Python • PHP • RADIUS • Docker
 
 ---
 
@@ -41,23 +28,41 @@ Advanced management and customization platform for Marzban/Xray servers.
 
 A lightweight PostgreSQL desktop client written in Rust.
 
-> Rust • Desktop • Database Tools
+> Rust • Desktop • PostgreSQL
+
+
+---
+
+### [easy-openVPN](https://github.com/Liwyd/easy-openVPN)
+
+Single-node OpenVPN management panel with hierarchical admins, per-user quotas, traffic accounting and subscription links — FastAPI backend, React dashboard, a one-command TUI installer and CI.
+
+> FastAPI • React • Docker • CI
+
+---
+
+### [MarzTool](https://github.com/Liwyd/marzTool)
+
+Marzban management suite with a master/node architecture for running many panels at once: flow and IP limiting, volume quotas, per-admin counters, a TUI daemon and a full Telegram bot.
+
+> Python • Multi-server • Telegram • TUI
+
+---
+
+### [Sarban](https://github.com/Liwyd/sarban)
+
+A pip-installable Python SDK covering the entire Marzban REST API — admins, users, nodes, subscriptions and statistics — documented in English, Persian and Chinese.
+
+> Python • SDK • REST API
+
 
 ---
 
 ### [Parsian Pay](https://github.com/Liwyd/parsian-pay)
 
-Production-ready payment gateway package for NestJS applications.
+Production-oriented Parsian Bank payment gateway package for Node/Express — modular architecture, input validation, rate limiting, structured logging and graceful shutdown.
 
-> NestJS • Payments • TypeScript
-
----
-
-### [PinCracker](https://github.com/Liwyd/pincracker)
-
-ATtiny85-based hardware security research project demonstrating embedded PIN brute-force techniques.
-
-> Embedded • Security Research
+> Node.js • Express • Payments
 
 ---
 
@@ -65,15 +70,26 @@ ATtiny85-based hardware security research project demonstrating embedded PIN bru
 
 Traffic generation and SEO experimentation toolkit created for educational and research purposes.
 
-> Research • Automation
+> Python • Research • Automation
 
 
-## Stack (who cares ?!)
-Rust • TypeScript • JavaScript • Python • C++ • Java • C •
-Go • NestJS • Axum • Express • FastAPI
-Next.js • React • Tailwind CSS • shadcn/ui
-PostgreSQL • Redis • MySQL • MongoDB • Cassandra
-Docker • Linux • Nginx • GitHub Actions • GitLab CI • Keycloak • Xray • V2Ray
+## Stack
+
+**Languages** — Go • Rust • Python • TypeScript • JavaScript • PHP • C/C++ • Java • Bash
+
+**Backend** — Express • FastAPI • Fiber • REST • WebSocket • JWT • BullMQ
+
+**Frontend** — Next.js • React • Vue • Svelte • Tailwind CSS • shadcn/ui
+
+**Data** — PostgreSQL • MySQL • MongoDB • Redis • Prisma • Sequelize • SQLAlchemy
+
+**Infra** — Docker • GitHub Actions • Nginx • Linux • systemd • Keycloak
+
+**Networks** — Xray • V2Ray • WireGuard • OpenVPN • RADIUS
+
+**Payments** — ZarinPal • Parsian • Stripe
+
+**Testing** — pytest • Jest • Vitest • Playwright
 
 
 
@@ -94,7 +110,3 @@ Explore more projects:
 - Telegram — https://t.me/liwyd
 - LinkedIn — https://www.linkedin.com/in/alikarimikahran
 - Website — https://resume.41i.shop *(currently unavailable)*
-
-
-
-
